@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
   "author": "@cnkcmb",
   "repository": "https://github.com/cnkcmb/tea-xyz-quest.git",
   "license": "MIT"
